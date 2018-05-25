@@ -1,0 +1,14 @@
+1.盒子模型的相关属性有 ： 大小（宽width/高height）
+边框（border (边框宽度border-width  边框样式border-style  边框颜色border-color)）
+内边距（padding ）  外边距（margin） 
+2.设置元素的上边框，宽度为5像素，样式为实线，颜色为红色的CSS语句是：
+border-top : 5px  solid  red;    
+3.常见的块级元素和行内元素分别有哪些（每项至少列举5个）？
+块级元素： form-交互表单  h1-一级标题   hr-水平分隔线  p-段落   table-表格   ul-无序列表
+行内元素：a-链接  img-图片  input-输入框  select-项目选择  b-粗体  i-斜体  strong-粗体强调
+4.display属性的常用值有哪些，分别是什么功能？
+常用值为 block  inline  inline-block  none
+block   功能：将元素显示为块级元素，该元素前后会带有换行符
+inline   功能：元素会被显示为行内元素，该元素前后没有换行符
+inline-block   功能：行内块元素
+none   功能：该元素不会被显示
